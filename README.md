@@ -1,7 +1,7 @@
 ###  👋
 
 <h1 align="center">Hola amigos , I'm Deepak Sai Pendyala </h1>
-<h4 align="center"> Web Developer & AI, ML enthusiast from Andhra Pradesh, India</h4>
+<h4 align="center"> Web Developer & AI, ML, IOT enthusiast from Andhra Pradesh, India</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksaipendyala&label=Views&color=blue&style=plastic" alt="Deepak sai" /></p>
 
 ### About Me :man:
@@ -11,7 +11,7 @@
 - :smiley: C & Python Developer
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in AI & Machine Learning and would like to contribute to this field later in my career.
-- :wink: Aside from programming,  I am an photographer, blogger,etc & Yeah, I love playing listening music, making instrumental music, playing games, watching movies and enjoying with people.
+- :wink: Aside from programming,  I am an Wonderful Cook, photographer, blogger,etc & Yeah, I love playing listening music, making instrumental music, playing games, watching movies and enjoying with people.
 
 ### Languages & Frameworks. 🚧 
 
