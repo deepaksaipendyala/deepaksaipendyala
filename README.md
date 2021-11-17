@@ -60,7 +60,7 @@
 
 ## GitHub Status :fist:
 [![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksaipendyala&show_icons=true&theme=highcontrast)](https://github.com/deepaksaipendyala/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksaipendyala&theme=highcontrast&layout=compact&langs_count=12)](https://github.com/deepaksaipendyala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksaipendyala&theme=highcontrast&layout=compact&langs_count=7)](https://github.com/deepaksaipendyala/github-readme-stats)
 
 ### Connect with me :bowtie: via
 <p align="center>
