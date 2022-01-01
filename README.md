@@ -7,7 +7,7 @@
 ## About Me :man:
 
 - 🔭 I'm a sophomore at Amrita Vishwa Vidyapeetham, Coimbatore in field of electrical and computer engineering.
-- 🌱 I'm specialized as Google IT Support professional.
+- 🌱 I'm a Intel IoT Student ambassador, also specialized as Google IT Support professional.
 - :smiley: C & Python Developer.
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - :wink: I'm Illustrator at Team Media, The Biggest Media Club in Amrita Vishwa Vidyapeetham, Coimbatore & Web Developer @ Design team at GEN E STUDENTS ASSOCIATION in Amrita Vishwa Vidyapeetham, Coimbatore.
