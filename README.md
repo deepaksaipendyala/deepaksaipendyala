@@ -7,7 +7,7 @@
 ## About Me :man:
 
 - 🔭 I'm a sophomore at Amrita Vishwa Vidyapeetham, Coimbatore in field of electrical and computer engineering.
-- 🌱 I'm a Intel IoT Student ambassador for Ase Cbe, founded the [Intel IoT Club](https://intelase.tech).
+- 🌱 I'm a Intel IoT Student ambassador for Ase Cbe, founded the [Intel IoT Club](https://intelase.tech). Also Event Ambassador at DeepLearning.AI.
 - :smiley: I'm a C & Python Developer,also specialized as Google IT Support professional.
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - :wink: I'm Illustrator at Team Media, The Biggest Media Club in Amrita Vishwa Vidyapeetham, Coimbatore & Web Developer @ Design team at GEN E STUDENTS ASSOCIATION in Amrita Vishwa Vidyapeetham, Coimbatore.
