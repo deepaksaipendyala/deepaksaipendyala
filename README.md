@@ -1,13 +1,14 @@
 ###  👋
 
 <h1 align="center">Hola amigos , I'm Deepak Sai Pendyala </h1>
-<h4 align="center"> Web Developer & AI, ML, IOT enthusiast from Andhra Pradesh, India</h4>
+<h4 align="center"> AI, ML, IoT enthusiast from Andhra Pradesh, India</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksaipendyala&label=Views&color=blue&style=plastic" alt="Deepak sai" /></p>
 
 ## About Me :man:
 
-- 🔭 I'm a sophomore at Amrita Vishwa Vidyapeetham, Coimbatore in field of electrical and computer engineering.
-- 🌱 I'm a Intel IoT Student ambassador for Ase Cbe, founded the [Intel IoT Club](https://intelase.tech). Also Event Ambassador at DeepLearning.AI.
+- 🔭 I'm a Junior at Amrita Vishwa Vidyapeetham, Coimbatore in field of Electrical and Computer Engineering.
+- 🌱 I'm a Intel IoT Student ambassador for ASE CBE, founded the [Intel IoT Club](https://intelase.tech).
+- 🔭 Also [Event Ambassador at DeepLearning.AI](https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak). [Featured as One of the 10 "2022 Pie & AI Ambassadors Spotlight."](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022)
 - :smiley: I'm a C & Python Developer,also specialized as Google IT Support professional.
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - :wink: I'm Illustrator at Team Media, The Biggest Media Club in Amrita Vishwa Vidyapeetham, Coimbatore & Web Developer @ Design team at GEN E STUDENTS ASSOCIATION in Amrita Vishwa Vidyapeetham, Coimbatore.
