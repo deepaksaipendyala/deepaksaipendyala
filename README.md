@@ -13,7 +13,7 @@
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - :wink: I'm Videographer at Team Media, The Biggest Media Club in Amrita Vishwa Vidyapeetham, Coimbatore & Web Developer @ Design team at GEN E STUDENTS ASSOCIATION, Media Co - lead at GDSC, Amrita Vishwa Vidyapeetham, Coimbatore.
 - 👯 I’m also interested in AI & Machine Learning and would like to contribute to this field later in my career.
-- :wink: Aside from programming,  I am an Wonderful Cook, photographer, blogger,etc & Yeah, I love playing & listening music, making instrumental music, games, Netflix and Chill!
+- :wink: Aside from programming,  I am an Wonderful Cook, photographer, blogger,etc & Yeah, I love playing & listening music, making instrumental music, games, Netflix and Chill! Hii
 
 ## Languages & Frameworks 🚧 
 
