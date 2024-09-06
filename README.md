@@ -23,7 +23,7 @@
 ![C++](https://icongr.am/devicon/cplusplus-plain.svg?size=50&color=currentColor)
 ![Assembly](https://plugins.jetbrains.com/files/9759/86800/icon/META-INF_pluginIcon.svg))
 
-## Working on learning:grinning:
+## Working on learning :grinning:
 
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
