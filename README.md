@@ -6,12 +6,11 @@
 
 ## About Me :man:
 
-- 🔭 I'm a Junior at Amrita Vishwa Vidyapeetham, Coimbatore in field of Electrical and Computer Engineering.
-- 🌱 I'm a Intel IoT Student ambassador for ASE CBE, founded the [Intel IoT Club](https://intelase.tech).
-- 🔭 Also [Event Ambassador at DeepLearning.AI](https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak). Featured as One of the 10 ["2022 Pie & AI Ambassadors Spotlight."](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022)
+- 🔭 I am a CS Graduate Student at North Carolina State University. I recently graduated with bachelor’s degree in Electrical and Computer Engineering from Amrita Vishwa Vidyapeetham, India.
+- 🌱 In 2023, I worked as an Applied Scientist Intern at Amazon, where I had the opportunity to tackle my expertise in machine learning to develop awe-inspiring ML and GenAI solutions.
+- 🔭 I'm a Intel IoT Student ambassador for ASE CBE, founded the [Intel IoT Club](https://intelase.tech), also [Event Ambassador at DeepLearning.AI](https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak). Featured as One of the 10 ["2022 Pie & AI Ambassadors Spotlight."](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022)
 - :smiley: I'm a C & Python Developer, also specialized as Google IT Support professional.
 - :blush: I'm interested in collaborating and contributing to open source projects.
-- :wink: I'm Videographer at Team Media, The Biggest Media Club in Amrita Vishwa Vidyapeetham, Coimbatore & Web Developer @ Design team at GEN E STUDENTS ASSOCIATION, Media Co - lead at GDSC, Amrita Vishwa Vidyapeetham, Coimbatore.
 - 👯 I’m also interested in AI & Machine Learning and would like to contribute to this field later in my career.
 - :wink: Aside from programming,  I am an Wonderful Cook, photographer, blogger,etc & Yeah, I love playing & listening music, making instrumental music, games, Netflix and Chill!
 
