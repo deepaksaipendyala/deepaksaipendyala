@@ -1,7 +1,7 @@
 ###  👋
 
 <h1 align="center">Hola amigos , I'm Deepak Sai Pendyala </h1>
-<h4 align="center"> AI, ML, IoT enthusiast from Andhra Pradesh, India</h4>
+<h4 align="center"> AI, ML, IoT enthusiast from Raleigh, NC</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksaipendyala&label=Views&color=blue&style=plastic" alt="Deepak sai" /></p>
 
 ## About Me :man:
