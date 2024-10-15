@@ -1,18 +1,18 @@
 ###  👋
 
-<h1 align="center">Hola amigos , I'm Deepak Sai Pendyala </h1>
+<h1 align="center">Heyy, I'm Deepak Sai Pendyala </h1>
 <h4 align="center"> AI, ML, IoT enthusiast from Raleigh, NC</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksaipendyala&label=Views&color=blue&style=plastic" alt="Deepak sai" /></p>
 
 ## About Me :man:
 
-- 🔭 I am a CS Graduate Student at North Carolina State University. I recently graduated with bachelor’s degree in Electrical and Computer Engineering from Amrita Vishwa Vidyapeetham, India.
-- 🌱 In 2023, I worked as an Applied Scientist Intern at Amazon, where I had the opportunity to tackle my expertise in machine learning to develop awe-inspiring ML and GenAI solutions.
-- 🔭 I'm a Intel IoT Student ambassador for ASE CBE, founded the [Intel IoT Club](https://intelase.tech), also [Event Ambassador at DeepLearning.AI](https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak). Featured as One of the 10 ["2022 Pie & AI Ambassadors Spotlight."](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022)
-- :smiley: I'm a C & Python Developer, also specialized as Google IT Support professional.
+- 🧑‍🔬 I am working as Research Assistant at CAMAL Labs, NC State and CS Graduate Student at North Carolina State University
+- 🔭 I recently completed my bachelor’s degree in Electrical and Computer Engineering from Amrita Vishwa Vidyapeetham, India.
+- 🌱 I also worked as an Applied Scientist Intern at Amazon, where I had the opportunity to tackle my expertise in machine learning to develop awe-inspiring ML and GenAI solutions.
+- 🔭 I was an Intel IoT Student ambassador for ASE CBE, founded the [Intel IoT Club](https://intelase.tech), also [Event Ambassador at DeepLearning.AI](https://www.deeplearning.ai/blog/2022-pie-ai-ambassador-spotlight-deepak). Featured as One of the 10 ["2022 Pie & AI Ambassadors Spotlight."](https://www.deeplearning.ai/blog/pie-ai-ambassadors-2022)
 - :blush: I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in AI & Machine Learning and would like to contribute to this field later in my career.
-- :wink: Aside from programming,  I am an Wonderful Cook, photographer, blogger,etc & Yeah, I love playing & listening music, making instrumental music, games, Netflix and Chill!
+- :wink: Aside from programming,  I am a Wonderful Cook, photographer, blogger,etc & Yeah, I love playing & listening music, making instrumental music, games, Netflix and Chill!
 
 ## Languages & Frameworks 🚧 
 
