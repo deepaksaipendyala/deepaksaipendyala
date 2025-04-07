@@ -21,7 +21,7 @@
 ![C](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![Apache](https://icongr.am/devicon/apache-original-wordmark.svg?size=50&color=2972d1)
 ![C++](https://icongr.am/devicon/cplusplus-plain.svg?size=50&color=currentColor)
-![Assembly](https://plugins.jetbrains.com/files/9759/86800/icon/META-INF_pluginIcon.svg))
+![Assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)
 
 ## Working on learning :grinning:
 
